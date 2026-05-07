@@ -1,0 +1,185 @@
+Cakrapāṇinātha: Bhavopahārastotra (mūla text extracted from the commented version)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_cakrapANinAtha-bhavopahArastotra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Somadeva Vasudeva
+## Contribution: Somadeva Vasudeva
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Mukunda Ramashastri Bombay: Tatva-vivechaka Press 1918 (Kashmir Series of Sanskrit Texts and Studies, 14).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Bhavopahārastotra = CakBhst,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from cakbh_au.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Cakrapaninatha: Bhavopaharastotra
+(mula text extracted from the commented version)
+Based on the ed. by Mukunda Ramashastri
+Bombay : Tatva-vivechaka Press 1918
+(Kashmir Series of Sanskrit Texts and Studies, 14)
+Input by Somadeva Vasudeva,
+2003
+TEXT WITH PADA MARKERS
+	
+
+
+
+# Text
+
+[oṃ] namaḥ sūryakalājālakāladehāpahāriṇe 
+ādhārādheyapīṭhāya bhavāyābhavadāyine // CakBhst_1
+
+namaḥ śiśuniśākāntakalākamalamāline 
+paramānandadehāya śivāyāvyaktamūrtaye // CakBhst_2
+
+namaḥ pāśaughasaṃghaṭṭalayaviśleṣakāriṇe 
+mantragarbhodarasthāya harāya paramātmane // CakBhst_3
+
+yadyapi tvaṃ guṇātīto vākpater apy agocaraḥ 
+tathāpy ā hṛdayāt stotum udyatā vāk sadā mama // CakBhst_4
+
+atibhaktirasāveśavivaśā viśvatomukha 
+tvatpreritā yato nātha nāparādho 'sti me kvacit // CakBhst_5
+
+tvatpādābjarajaḥpūtacitābhūtivibhūṣitāt 
+gṛhāṇa mattaḥ śrīkaṇṭha! bhāvapūjām akṛtrimām // CakBhst_6
+
+hṛtpuṣkarākhye snātvāntas tīrthe yoginiṣevite 
+saṃbodhadhautavasanaḥ śyāmakaṇṭhaṃ yajāmy aham // CakBhst_7
+
+prabhūtabhūtasaṃbhūtaśoṇitair arghabhājanam 
+kriyate te mahākālakāyakaṃkālakandale // CakBhst_8
+
+yad yad vikalpanājālaṃ bāhyārthapratipattaye 
+tat tad dvārādhipakulaṃ tava pūjyaṃ manasvibhiḥ // CakBhst_9
+
+aśeṣāvaraṇonmuktaguptasauṣuptamaṇḍale 
+pūjyase nagajākānta! grahaṇe candrasūryayoḥ // CakBhst_10
+
+hānādānodayārambhasadasadvibhramojjhitam 
+jñaptimātrapratiṣṭhānam āsanaṃ trijagatpate // CakBhst_11
+
+mūrtidānam anābhāsaśaktibhāsopabṛṃhitam 
+turyapīṭhapratiṣṭhānaṃ vitarāmi jagatpate // CakBhst_12
+
+dikkāladeśakalanākalaṅkojjhitacetasaḥ 
+kaḥ karoti budhaḥ sthāṇor āhvānādivisarjanam // CakBhst_13
+
+sūryaśītāṃunetrābhyāṃ mathitvā śaktivāridhim 
+parāmṛtarasābhyaṅgaṃ śivāya vinivedaye // CakBhst_14
+
+indriyeṣv indriyārtheṣu rāgalobhānuyāyiṣu 
+niḥsnehatvaṃ prabhutvaṃ ca rūkṣam udvartanaṃ tava // CakBhst_15
+
+saṃśodhyānacchakalayā baindhavaṃ tīrthamañjasā 
+tadvirāmarasasnānaṃ deyaṃ candrārdhamaulaye // CakBhst_16
+
+svaprabodhāmbarodāravikasadvastragharṣaṇam 
+viniveśya bhavatsaṃvidvikārān vikarāmahe // CakBhst_17
+
+jñānajñeyaparityāganaganirjharavisrutam 
+paramānandadaṃ me 'ntas tava pādyam anābilam // CakBhst_18
+
+amandānandaniḥṣyandaspandamandirakandarāt 
+galatkaivalyasalilam ādatsvācamanaṃ vibho // CakBhst_19
+
+prakṣālya dhāraṇāmbhobhir granthipañcakamauktikam 
+anarghyam arghaṃ pādebhyaḥ prayacchāmi vṛṣākape // CakBhst_20
+
+turīyodyānavikasatsaṃvitsaurabhanirbharaiḥ 
+girīśa tisṛbhir vāgbhiḥ stutipuṣpaiḥ prapūjyase // CakBhst_21
+
+prāṇavahniśikhāstreṇa bhaṅktvā brahmabilaṃ lasat 
+dhūpavartinibhābhāso dhūpas te nagajādhava // CakBhst_22
+
+anāhatā nadaty antar yā gaur dhāmni pare parā 
+sā ghaṇṭā vādyate śambhor agre granthārthagarbhiṇī // CakBhst_23
+
+kandānalollasacchaktiśikhāṃ dīpaśikhopamām 
+uddīpayāmi bhagavan mohadhvāntāpanuttaye // CakBhst_24
+
+vṛttityāgāmṛtakalācandraś candrakirīṭinaḥ 
+samālambhanavevāstu mumukṣūṇāṃ vimuktaye // CakBhst_25
+
+nādaśaktyuditaṃ dhāma malatrayavivarjitam 
+uṣṇīṣam astu te rudra vidrāvitanabho 'rgalam // CakBhst_26
+
+bhavadbhaktisudhāsārasaṃplāvitahṛdambudheḥ 
+prollasadbrahmakamalam amalaṃ te 'stu śekharam // CakBhst_27
+
+bodhāravindasaṃdoho hara hāralatā tava 
+nityoditāntaravyāptikalā candrakalā ca te // CakBhst_28
+
+ākṛṣyārkakaraiḥ śāktair viśvākāśakuśeśayāt 
+ciccandrāmṛtaniḥṣyandam āsvādaya jagatpate // CakBhst_29
+
+mantraṃ manasi tacchaktau tāṃ svadhāmni sadodite 
+kṛtvā japavidhiṃ samyak śivāya vinivedaye // CakBhst_30
+
+niḥśeṣārthaparityāge grahaṇe vāmitād dyute 
+anābilaṃ parāṃ vyāptiṃ mudrāṃ badhnāmi dhūrjaṭe // CakBhst_31
+
+śaṣkulīkarṇayor baddhvā yo rāvo 'tra vijṛmbhate 
+tadgītam atha te vādyam ādyasaṃpuṭaghaṭṭanāt // CakBhst_32
+
+bhavadbhāvarasāveśāt tāṇḍavāḍambaroddhataḥ 
+mantrādhvani nadāmy antaḥ kim u bāhyārthabhāvanaiḥ // CakBhst_33
+
+akhaṇḍamaṇḍalākāraśivatābhāvanāmbaram 
+upariṣṭān mayā śambhor vitānam upakalpitam // CakBhst_34
+
+recayitvā karandhreṇa bhācakraṃ hṛdayāmbarāt 
+dhāryate dhūrjaṭer agre cārucāmaravan mayā // CakBhst_35
+
+nāsāpuṭakuṭīkoṭivisṛtaiḥ prasṛtaiḥ puraḥ 
+tālavṛntair iva vibho vījyase haṃsamārutaiḥ // CakBhst_36
+
+sarvātapavinirmuktaṃ bhavadbhaktisudhāsitam 
+ātapatram athāsmābhir dhāryate te mahāśaya // CakBhst_37
+
+mamatāmandurātyāgātrailokyākarṣaṇakṣamaḥ 
+ahaṃkāraturaṅgas te vāhanāya prakalpitaḥ // CakBhst_38
+
+svasaṃvinnandanānandanāgavallīdalojjvalam 
+sphuratspandendusurabhi tāmbūlaṃ te nivedyate // CakBhst_39
+
+bhogyabhoktṛvibhedotthavāsanendhanasaṃcayam 
+advaitāgnau juhomy antaḥ śāṃkare sreyasām nidhau // CakBhst_40
+
+prakāśākāśahastābhyām avalambyonmanāsrucam 
+dharmādharmagalatsnehapūrṇāṃ vahnau juhomy aje // CakBhst_41
+
+yuṣmaddhyānaniśānāthakiraṇair uparañjitaḥ 
+antarmānavidhau te 'stu cittacintāmaṇir mama // CakBhst_42
+
+mokṣalakṣmīkarāmbhojapātre vinyasya saṃskṛtām 
+nivedayāmi bhagavan prāṇasarvasvadakṣiṇām // CakBhst_43
+
+saṃsāravāridheḥ santaḥ paraṃ pāraṃ titīrṣavaḥ 
+candramauleḥ śrayantūccair bhāvapūjātaraṇḍakam // CakBhst_44
+
+ittham īśānacaraṇanuter yat samupārjitam 
+śreyas tena jagat kṛtsnaṃ dveṣadoṣād vimucyatām // CakBhst_45
+
+stotraṃ gṛhāṇa parameśvara viśvasākṣin mānāvamānamatojjhitacittavṛtteḥ 
+mattas tvadaṅghriyugapīṭhanilīnamauler bhasmāvaguṇṭhitatanor nṛkapālapāṇeḥ // CakBhst_46
+
+mahāpāśupatodyāne kaścid viśramya tāpasaḥ 
+cakre ciccakranāthasya śambhor bhāvanutiṃ parām // CakBhst_47
